@@ -1,3 +1,3 @@
-# Loqui Storage Demo
+# Store It SB demo
 
-A fake self-storage website for testing the Loqui website chat widget on a live URL. Not a real business.
+A demo copy of the West Coast Self Storage Santa Barbara page, for testing the Loqui website chat widget on a live URL. The real site is westcoastselfstorage.com. Not indexed.
